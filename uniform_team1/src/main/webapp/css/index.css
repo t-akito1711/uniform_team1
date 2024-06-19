@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+h1{
+	background-color:black;
+	color: azure;
+}
+
+.header{
+	text-align: center;
+}
